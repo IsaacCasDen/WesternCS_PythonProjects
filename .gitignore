@@ -112,3 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+ParseLog/homework5.pdf
+
+# Pycharm
+.idea/
